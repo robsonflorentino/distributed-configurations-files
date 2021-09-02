@@ -1,6 +1,4 @@
-cliente:
-  name: Robson Florentino da Silva
-  
-hello:
-  api:
-    active: true
+spring.http.encoding.charset=UTF-8
+
+management.endpoints.web.exposure.include=refresh
+spring.security.user.roles=USER,ACTUATOR
