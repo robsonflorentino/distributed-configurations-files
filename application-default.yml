@@ -4,3 +4,9 @@ cliente:
 hello:
   api:
     active: true
+    
+spring:
+  security:
+    user:
+      name: User
+      password: Default
