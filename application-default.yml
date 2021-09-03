@@ -3,7 +3,7 @@ cliente:
 
 hello:
   api:
-    active: true
+    active: false
     
 spring:
   security:
