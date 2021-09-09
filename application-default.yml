@@ -1,12 +1,1 @@
-cliente:
-  name: Robson Florentino da Silva
-
-hello:
-  api:
-    active: false
-    
-spring:
-  security:
-    user:
-      name: User
-      password: Default
+luck-word: Robson Florentino da Silva
