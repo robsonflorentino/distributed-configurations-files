@@ -1,4 +1,2 @@
 spring.http.encoding.charset=UTF-8
-
-management.endpoints.web.exposure.include=refresh
-spring.security.user.roles=USER,ACTUATOR
+luck-word: Angela Martins de Oliveira
