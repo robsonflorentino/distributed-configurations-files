@@ -1,1 +1,2 @@
-
+message-configuration:
+  alert: Apenas uma nova mensagem.
